@@ -1,0 +1,2 @@
+C:/Users/pc/StudioProjects/post_api/android/app/.cxx/Debug/3mr4o3ob/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/pc/StudioProjects/post_api/android/app/.cxx/Debug/3mr4o3ob/x86_64/CMakeFiles/rebuild_cache.dir
